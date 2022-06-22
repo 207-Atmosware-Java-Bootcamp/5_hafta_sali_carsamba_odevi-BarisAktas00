@@ -1,2 +1,4 @@
 # 5.hafta.sali.carsamba.odevi
-https://github.com/ulkulekci/Turkcell_javaSe_odevler
+Vize Final Ortalama
+Asal Sayı Bulma
+Faktöriyel Hesaplama
